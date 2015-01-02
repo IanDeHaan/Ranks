@@ -5,17 +5,17 @@ Concrete Craft Ranks
 
 
 
-Starter Ranks
+STARTER RANKS
 
 
 
-Survivor
+SURVIVOR
 
 Rank you start with
 
 
 
-Villager
+VILLAGER
 
 Requirements: Create a house that actually looks good
 
@@ -23,7 +23,7 @@ Perks: Iron Tools
 
 
 
-Citizen
+CITIZEN
 
 Requirements: Create a community project
 
@@ -31,7 +31,7 @@ Perks: Iron Armor
 
 
 
-Apprentice
+APPRENTICE
 
 Requirements: $1000
 

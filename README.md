@@ -35,4 +35,4 @@ APPRENTICE
 
 Requirements: $1000
 
-Perks: Set the time and /toggledownfall
+Perks: Set the time and /weather

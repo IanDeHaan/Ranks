@@ -25,7 +25,7 @@ Perks: Iron Tools
 
 CITIZEN
 
-Requirements: Create a community project
+Requirements: Give a player a diamond
 
 Perks: Iron Armor 
 

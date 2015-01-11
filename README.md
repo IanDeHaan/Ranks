@@ -52,46 +52,7 @@ kits:
 
 
 
-===
-Ranks
-=====
-
-Concrete Craft Ranks
-
-
-
-STARTER RANKS
-
-
-
-SURVIVOR
-
-Rank you start with
-
---
-
-VILLAGER
-
-Requirements: Create a house that actually looks good
-
-Perks: Iron Tools
-
---
-
-CITIZEN
-
-Requirements: Give a player a diamond
-
-Perks: Iron Armor 
-
---
-
-APPRENTICE
-
-Requirements: $1000
-
-Perks: Set the time and /weather
-
+https://github.com/IanDeHaan/Starter-Ranks
 --
 FIREMANCER TREE:
 
